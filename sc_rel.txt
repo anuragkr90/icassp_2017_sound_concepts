@@ -1,0 +1,1171 @@
+airport	aircraft
+airport	chirping birds
+airport	downtown
+airport	garage
+airport	intercoms
+airport	jets
+airport	plane engines
+airport	planes coming
+airport	planes flying
+airport	planes taking
+airport	rules
+airport	seagulls
+airport	surf
+airport	water
+airplane	birds
+airplane	chirping birds
+airplane	dodging
+airplane	flight
+airplane	pigeons
+airplane	water splashing
+bar	approaching tumult
+bar	beer dripping
+bar	birds
+bar	blues
+bar	cheering
+bar	children
+bar	clinking glasses
+bar	dinnerware
+bar	dogs barking
+bar	enlightenment
+bar	feedback
+bar	handcuffs clicking
+bar	hooves
+bar	house
+bar	jazz
+bar	jazz coming
+bar	jubilation
+bar	knowledge
+bar	laughter
+bar	life
+bar	merriment
+bar	music
+bar	nature
+bar	oaths
+bar	people moving
+bar	piano playing
+bar	rushing water
+bar	sizzling nico
+bar	striking
+bar	surf
+bar	techno
+bar	water
+bar	waves
+bar	waves dancing
+bar	whispers
+bar	wilderness
+arena	battle
+arena	battle echoing
+arena	gunfire
+arena	lacrosse
+arena	music
+arena	revelry
+arena	snow sliding
+arena	thousands
+arena	wind whistling
+bathroom	banging pipes
+bathroom	creaking bones
+bathroom	crying
+bathroom	filling
+bathroom	flatulence
+bathroom	footsteps approaching
+bathroom	lobsters
+bathroom	names
+bathroom	nature
+bathroom	pouring water
+bathroom	running water
+bathroom	rushing water
+bathroom	silence
+bathroom	someone
+bathroom	someone singing
+bathroom	water
+bathroom	water running
+bathroom	water rushing
+church	applause
+church	artillery blasts
+church	artists ranging
+church	bagpipes
+church	beads baptizing
+church	bells
+church	birdsong
+church	blows
+church	bombings
+church	brass
+church	celebration
+church	children
+church	children laughing
+church	church bells
+church	crickets
+church	families
+church	footsteps
+church	harmonium
+church	heavy
+church	horns
+church	horse hoofs
+church	hundreds
+church	hymns
+church	interest
+church	iron
+church	laughter
+church	maria
+church	motorcycles
+church	music
+church	people
+church	praise
+church	praise coming
+church	racecars
+church	reunions
+church	revival
+church	rifle shots
+church	salvos
+church	seagulls
+church	shutters banging
+church	singing
+church	sirens
+church	snoring
+church	someone
+church	symbolics
+church	thunder
+church	tramping feet
+church	trumpets
+church	violins leading
+church	water flowing
+church	wedding bells
+church	weeping
+church	whispering pines
+cafe	bass
+cafe	chatter
+cafe	jazz
+cafe	laughter
+cafe	passing trains
+cafe	regurgitating muffins
+cafe	waterfalls
+beach	applause
+beach	bagpipes
+beach	beating drums
+beach	birds
+beach	birdsong
+beach	bossa nova
+beach	breaking waves
+beach	breezes
+beach	calming waves
+beach	children playing
+beach	chimes
+beach	choice
+beach	civilization
+beach	crashing waves
+beach	developer documents
+beach	dolphins blowing
+beach	drums
+beach	electro
+beach	engines humming
+beach	falling water
+beach	fishing boats
+beach	gold
+beach	guitar
+beach	gun fire
+beach	jazz
+beach	joggers running
+beach	kitchen parties
+beach	lapping waves
+beach	laughter
+beach	living
+beach	men
+beach	mirth
+beach	motor
+beach	motor cars
+beach	motors
+beach	music
+beach	nature tapes
+beach	ocean
+beach	ocean waves
+beach	people enjoying
+beach	picnics
+beach	pounding surf
+beach	reggae
+beach	roaring surf
+beach	rock
+beach	rolling waves
+beach	rushing waves
+beach	rustling palms
+beach	screaming
+beach	seagulls
+beach	ships
+beach	software
+beach	squawking parrots
+beach	squawking seagull
+beach	squealing tires
+beach	steel drums
+beach	summer
+beach	surf
+beach	surf hitting
+beach	trickling water
+beach	tropical birds
+beach	voices
+beach	water
+beach	waves
+beach	waves breaking
+beach	waves crashing
+beach	waves lapping
+beach	waves lashing
+beach	waves moving
+beach	waves pounding
+beach	waves rolling
+beach	waves splashing
+beach	waves washing
+beach	wind
+construction	blasting
+construction	building work
+construction	chainsaws
+construction	cranes
+construction	demolition
+construction	drums
+construction	engines
+construction	falling adzes
+construction	hammer
+construction	hammering
+construction	hammers
+construction	heat bugs
+construction	jackhammers
+construction	language
+construction	people
+construction	pile drivers
+construction	pounding hammers
+construction	rushing water
+construction	sites
+construction	stool
+construction	traffic
+construction	using
+construction	war
+construction	wind
+campus	bells ringing
+campus	birds chirping
+campus	chirping birds
+campus	laughter
+campus	merriment
+campus	music
+campus	sentences
+campus	things
+campus	wildlife
+campus	wrecking balls
+cities	adam
+cities	generators
+cities	hammers
+cities	jazz
+cities	missiles
+cities	nature
+cities	passing cars
+cities	people celebrating
+cities	predators approaching
+cities	temple bells
+cities	trumpets
+city	ambulances racing
+city	artillery
+city	bargaining
+city	battle
+city	bells
+city	birds
+city	birds singing
+city	blues
+city	bombs exploding
+city	boomboxes
+city	building
+city	car horns
+city	cars
+city	car tires
+city	castanets
+city	chaos
+city	cheering
+city	children crying
+city	children singing
+city	chinking glasses
+city	church bells
+city	coins
+city	commerce
+city	cowbells
+city	crickets
+city	crystals
+city	destruction
+city	drums
+city	earth
+city	erecting
+city	explosions
+city	fado
+city	falling bombs
+city	fighting
+city	flowing stream
+city	flowing water
+city	foghorns bellowing
+city	generators
+city	glass breaking
+city	grasshoppers
+city	gunfire
+city	gunfire echoing
+city	gunshots
+city	gun shots
+city	haggling
+city	hip hop
+city	honking horns
+city	horns
+city	horses
+city	hundreds
+city	insects
+city	jazz
+city	kerching
+city	kids screaming
+city	landmines exploding
+city	laughter
+city	life
+city	living
+city	men
+city	musak
+city	music
+city	nature
+city	people
+city	people saying
+city	police
+city	rage
+city	raindrops adding
+city	reggae coming
+city	rejoicing
+city	revel
+city	revelry drifting
+city	revolt
+city	roaring
+city	roaring engines
+city	shooting
+city	shopping
+city	shots
+city	shrapnel
+city	silence
+city	singing
+city	sirens
+city	splash
+city	suburbia
+city	sweeping
+city	tanks
+city	things
+city	this
+city	thousands
+city	thunder
+city	today
+city	traffic
+city	trains
+city	trumpet
+city	trumpets
+city	twittering
+city	uproar
+city	voices speaking
+city	water
+city	waves
+city	weeping
+city	wilightwas
+city	yesterday
+city	yesteryear
+ballgame	ball
+ballgame	vendors walking
+classroom	approval
+classroom	celebration coming
+classroom	clicking keyboards
+classroom	gunshots
+classroom	laughter
+classroom	marching feet
+classroom	markers squeaking
+classroom	reading
+classroom	roars
+classroom	shots
+classroom	shuffling bags
+farm	cattle
+farm	christmas
+farm	cow bells
+farm	footsteps
+farm	guns
+farm	harvesting
+farm	hooves
+farm	laughter
+farm	life
+farm	moving bicycles
+farm	rushing water
+farm	rustling leaves
+farm	soldiers rampaging
+farm	war
+farm	wilderness
+bus	approaching desperados
+bus	bagpipes
+bus	brakes
+bus	children returning
+bus	clanging metal
+bus	crickets
+bus	laughter
+bus	protestors
+bus	shells falling
+bus	urchin moistboyz
+forest	acorns hitting
+forest	animals
+forest	animals roaming
+forest	axes
+forest	beast
+forest	beasts
+forest	bells
+forest	birds
+forest	birdsong
+forest	birds singing
+forest	boys crying
+forest	breaking twigs
+forest	bugling elk
+forest	cascading water
+forest	chainsaws
+forest	chanting
+forest	chirping birds
+forest	cooing
+forest	creatures
+forest	crickets
+forest	crisp leaves
+forest	dinosaurs
+forest	dripping water
+forest	falling snow
+forest	falling water
+forest	firing
+forest	flowing water
+forest	flowing whitewater
+forest	flute
+forest	footfalls
+forest	footsteps
+forest	galloping horses
+forest	generators
+forest	gibbons calling
+forest	gunfire
+forest	happiness
+forest	hooves
+forest	insects
+forest	lake
+forest	lapping waves
+forest	life
+forest	lowers
+forest	mouth hits
+forest	movement
+forest	music
+forest	nature
+forest	night
+forest	ocean waves
+forest	peeper frogs
+forest	predators
+forest	rain
+forest	rain falling
+forest	rain seeping
+forest	returning songbirds
+forest	river rapids
+forest	running water
+forest	rushing water
+forest	rustling paper
+forest	saws
+forest	screams
+forest	sea birds
+forest	silence
+forest	silence filling
+forest	skilifts
+forest	someone getting
+forest	something running
+forest	song birds
+forest	steps
+forest	stream
+forest	things dropping
+forest	thousands
+forest	thunder
+forest	toucans
+forest	trees falling
+forest	trickling water
+forest	vampires moaning
+forest	voices coming
+forest	water
+forest	water dripping
+forest	water drops
+forest	waterfalls
+forest	waves
+forest	whirring wings
+forest	wildlife
+forest	wind
+funeral	bagpipes
+funeral	breaking waves
+funeral	gunshots
+funeral	taps
+garden	approaching soldiers
+garden	birds
+garden	birdschirping
+garden	birds singing
+garden	breaking rules
+garden	bubbling fountains
+garden	carollers singing
+garden	cheering
+garden	children
+garden	children playing
+garden	chirping
+garden	chirping birds
+garden	cicalas
+garden	crickets
+garden	dripping water
+garden	falling water
+garden	fighting
+garden	flocking birds
+garden	flowing water
+garden	flutes
+garden	footsteps
+garden	hammer
+garden	hoofs
+garden	koto
+garden	leaves
+garden	life
+garden	merengue
+garden	moms cooking
+garden	motorcycles rolling
+garden	moving water
+garden	music
+garden	music playing
+garden	nature
+garden	people running
+garden	rain
+garden	reggae
+garden	rippling water
+garden	running water
+garden	rushing water
+garden	rustling leaves
+garden	song birds
+garden	splashing
+garden	splashing water
+garden	spring
+garden	swallows
+garden	time
+garden	tranquility
+garden	trickling water
+garden	trumpet
+garden	voice
+garden	water
+garden	water cascading
+garden	waterfalls
+garden	water flowing
+garden	water running
+garden	water rushing
+garden	water trickling
+garden	waves
+garden	waves lapping
+garden	windchimes
+garden	wind chimes
+grocery store	breaking glass
+house	activity coming
+house	agony
+house	aircraft
+house	a&m
+house	anxiety wineglasses
+house	banging hammers
+house	barking
+house	bathing
+house	battle
+house	bell ringing
+house	birds
+house	bleating
+house	blows
+house	boots
+house	boots clicking
+house	branches
+house	breakbeat
+house	breaking glass
+house	breathing
+house	bubbling water
+house	cars pulling
+house	celebration
+house	chaos
+house	childhood
+house	children
+house	children running
+house	children sobbing
+house	chimes
+house	chirping birds
+house	civilization
+house	clattering hooves
+house	clock
+house	coffee grinding
+house	condoms snapping
+house	construction
+house	crashing waves
+house	crickets
+house	crinkling paper
+house	crying
+house	crying babies
+house	dance
+house	developer documents
+house	dodging
+house	dogs
+house	dozens
+house	dribbling basketballs
+house	drums
+house	drums blaring
+house	explosions
+house	fans
+house	favoredoverage
+house	feet
+house	fiddling
+house	firecrackers
+house	fire crackers
+house	fireworks
+house	firing
+house	flora
+house	footfalls approaching
+house	footsteps
+house	fun
+house	glass breaking
+house	gunfire
+house	gunshots
+house	guys hanging
+house	hammer
+house	hammering
+house	hip hop
+house	home
+house	horn
+house	horses
+house	hounds baying
+house	houses
+house	hurrying feet
+house	icicles breaking
+house	items falling
+house	jazz
+house	knocks
+house	laughter
+house	laughter fills
+house	life
+house	life emitting
+house	live
+house	lots
+house	machine guns
+house	men
+house	merriment
+house	movement
+house	moving
+house	moving furniture
+house	munching
+house	music
+house	nail guns
+house	nature
+house	objects crashing
+house	obscenities
+house	opening cans
+house	paper shredders
+house	passing carsn
+house	passion
+house	pattering rain
+house	pens
+house	people
+house	people cleaning
+house	people enjoying
+house	people partying
+house	people talking
+house	plotter
+house	pop
+house	power looms
+house	praise
+house	pundits
+house	pursuit
+house	quarrels
+house	raging
+house	rain
+house	rain beating
+house	rain coming
+house	rain hitting
+house	rats
+house	rattling dishes
+house	remodeling
+house	revelry
+house	ringing
+house	ripping paper
+house	rocking chairs
+house	rocks
+house	running
+house	running feet
+house	running water
+house	scams
+house	shattering glass
+house	shoes walking
+house	shooting
+house	shots
+house	shrieking
+house	silence
+house	singing
+house	sirens
+house	snores
+house	snores coming
+house	snow breaking
+house	sobbing
+house	somebody entering
+house	somebody stirring
+house	someone
+house	someone breaking
+house	someone catching
+house	someone creeping
+house	someone running
+house	someone talking
+house	someone trying
+house	someone walking
+house	something gnawing
+house	song
+house	sparks firing
+house	spring
+house	summer
+house	surf
+house	teargas firing
+house	techno
+house	teenagers running
+house	territory
+house	that
+house	things
+house	things banging
+house	things breaking
+house	things lying
+house	things shattering
+house	thumping
+house	thunder
+house	timing
+house	today
+house	traffic
+house	tramping feet
+house	trees cracking
+house	typing
+house	uplifting
+house	vehicles
+house	wagging
+house	wailing
+house	water
+house	water gushing
+house	water running
+house	water splashing
+house	waves
+house	weeping
+house	weeping women
+house	welcome
+house	whinnying horses
+house	witches criticizing
+house	wood tearing
+house	world
+library	chirping birds
+library	flying feet
+library	footsteps
+library	gunshots
+library	inevitability
+library	movies
+library	music
+library	nature
+library	race cars
+library	silence
+library	spring peepers
+library	summer
+library	verizon
+library	wildlife
+office	air vents
+office	assent
+office	breathing
+office	cascading water
+office	cash registers
+office	chatter
+office	chattering teeth
+office	coughs
+office	crackling typewriters
+office	disruption
+office	downtown
+office	drums
+office	engines
+office	falling water
+office	feet
+office	firing
+office	flowing water
+office	frustration
+office	fussing
+office	guffaws
+office	gunfire
+office	justice
+office	laugher
+office	laughter
+office	laughter coming
+office	moving water
+office	nature
+office	pen scratching
+office	people laughing
+office	people talking
+office	praise
+office	relaxation emanating
+office	ripping metal
+office	rippling water
+office	running water
+office	snoring dogs
+office	somebody breaking
+office	steps
+office	strife
+office	thumping
+office	trickling water
+office	typing
+office	voices
+office	waterfalls
+office	whining
+office	words
+park	acorns hitting
+park	ambulance sirens
+park	attending
+park	attractions
+park	battle
+park	birds
+park	cars
+park	celebrity
+park	children
+park	children playing
+park	chimes coming
+park	civilization
+park	clopping hooves
+park	dancing bears
+park	databases
+park	dinosaurs surrounding
+park	distress
+park	downtown
+park	dragons
+park	drifting
+park	falling water
+park	fireworks
+park	flesh
+park	folk melodies
+park	footsteps
+park	frogs
+park	gunfire
+park	hundreds
+parking lot	argument
+parking lot	ball
+parking lot	gravel
+parking lot	hardcore
+parking lot	mooing cows
+parking lot	motorcycles
+parking lot	night birds
+parking lot	rushing water
+parking lot	screeching brakes
+parking lot	screeching tires
+parking lots	nature
+parking lot	tires grinding
+park	island birds
+park	jazz
+park	jungles
+park	lacrosse
+park	laughter
+park	learning
+park	leaves crunching
+park	mews
+park	migrating songbirds
+park	motor mowers
+park	music
+park	nature
+park	night
+park	people
+park	plastic
+park	police siren
+park	pounding nails
+park	quacking birds
+park	riding
+park	rushing water
+park	salsa
+parks	birds chirping
+parks	children playing
+parks	civilization
+parks	crickets
+park	sirens converging
+parks	laughing
+parks	nature
+park	snowmobiles
+park	summer
+park	summer concerts
+parks	water
+park	this
+park	trucks grinding
+park	voices
+park	water
+park	waterfalls
+parties	cash registers
+parties	classic
+parties	diners eating
+parties	merriment
+parties	rock
+parties	samples
+parties	singing
+ranch	bulldozers
+ranch	gunfire
+ranch	horses
+ranch	nature
+ranch	tapping water
+restaurant	alphorn
+restaurant	bagpipes
+restaurant	contemporary
+restaurant	country music
+restaurant	fish
+restaurant	fraud technologies
+restaurant	jazz
+restaurant	laughter
+restaurant	live
+restaurant	music
+restaurant	music coming
+restaurant	music drifting
+restaurant	music pouring
+restaurant	people talking
+restaurant	rushing water
+restaurants	birds singing
+restaurants	dozens
+restaurants	effects
+restaurants	flowing water
+restaurants	guitars
+restaurants	music
+restaurants	paradise
+restaurants	people talking
+restaurants	periods
+restaurants	running water
+restaurants	smashing waves
+restaurants	teens talking
+restaurant	temple bells
+restaurant	that
+restaurant	waves
+restaurant	yodlers
+school	achievement
+school	applause
+school	approaching automobiles
+school	approaching sirens
+school	bagpipes
+school	bell
+school	boys
+school	brass
+school	bugles
+school	bulldozers crushing
+school	buses revving
+school	children
+school	children playing
+school	choirboys singing
+school	civilization
+school	configuration
+school	cricket
+school	drums
+school	football games
+school	footsteps
+school	glass
+school	gun fire
+school	gunshots
+school	helicopters
+school	junky speakers
+school	laughing
+school	laughter
+school	lawn mowers
+school	leaves crunching
+school	love
+school	metal
+school	mothers
+school	music
+school	nostalgia
+school	percussion
+school	pistol shots
+school	progress
+school	protest
+school	quacking birds
+school	racing engines
+school	screams
+school	shells falling
+school	soul
+school	sparrows twittering
+school	speech
+school	sponsoring systems
+school	sympathy
+school	teachers
+school	that
+school	thunder
+school	ticking
+school	ticking clocks
+school	today
+school	traffic
+school	trickling water
+school	yesteryear
+stadium	applause
+stadium	fans
+stadium	jets roaring
+stadium	pride
+stadium	snare drums
+stadium	sport echoes
+stadium	thunder
+stadium	work
+street	autos passing
+street	autumn
+street	beagles stirring
+street	birds
+street	birds chirping
+street	blowing wind
+street	bombing
+street	breaking glass
+street	car horns
+street	carriage wheels
+street	cars
+street	celebration
+street	cheering
+street	cheers
+street	children
+street	children playing
+street	church bells
+street	commerce
+street	cooking
+street	crying
+street	dreams shattering
+street	drilling
+street	dropping coins
+street	drums
+street	explosions
+street	falling crockery
+street	falling water
+street	feet
+street	feet hitting
+street	fighting
+street	firing
+street	flutes
+street	footsteps
+street	fruit
+street	garbage grinding
+street	glass shattering
+street	gongs
+street	groups
+street	guitars
+street	gunfire
+street	gun fire
+street	gunshots
+street	helicopters
+street	history
+street	honking cars
+street	hoof beats
+street	hoofs
+street	horse
+street	intensity
+street	jazz
+street	jingle bells
+street	karaoke echoing
+street	laughter
+street	lawn mowers
+street	leaves dragging
+street	leaves falling
+street	men yelling
+street	metal
+street	motion
+street	music
+street	music drifting
+street	music reaching
+street	music starting
+street	nature
+street	opera coming
+street	papers
+street	passage
+street	passing cars
+street	people
+street	people talking
+street	pigeons
+street	pleasure
+street	prayer
+street	protesters
+street	rattling woks
+street	rumbling traffic
+street	secrets
+street	shattering glass
+street	shouting
+street	shrieking women
+street	silence coming
+street	singing
+street	sirens coming
+street	someone
+street	someone chatting
+street	strings
+street	taiko drums
+street	tanks rolling
+street	tap shoes
+street	things
+street	thousands
+street	thunder
+street	toddlers
+street	traffic
+street	tramping feet
+street	transformers exploding
+street	trucks
+street	trumpets
+street	tumbrils rumbling
+street	voice
+street	voices
+street	waking households
+street	water
+street	waves crashing
+street	wheels
+street	work
+street	working-class
+subway	approaching trains
+subway	arpanet
+subway	commuters clearing
+subway	diamond
+subway	people
+subway	punk
+subway	wings fluttering
+train	avalanches
+train	birds
+train	breaking glass
+train	danger
+train	feet walking
+train	flesh falling
+train	freight trains
+train	glass breaking
+train	gunfire
+train	guns
+train	hands
+train	inevitability
+train	measure
+train	music
+train	nature
+train	pages turning
+train	people living
+train	people talking
+train	planes flying
+train	rain
+train	rescue
+train	revolver shots
+train	ringing bells
+train	rops
+train	scenes occurring
+train	snoring
+train	speech
+train	spring peepers
+train station	trains grinding
+train	things
+train	trains clattering
+train	trains coupling
+train	trains starting
+train	trudging footsteps
+train	water cascading
+train	windchimes
+trucks	ambulances
+trucks	birds
+trucks	bodies crashing
+trucks	bulldozers
+trucks	cars
+trucks	crickets
+trucks	dogs singing
+trucks	dynamite
+trucks	gunfire
+trucks	jackhammers
+trucks	lawn mowers
+trucks	sirens
+trucks	snowblowers
+wedding	birds
+wedding	boys
+wedding	drums
+wedding	happiness
+wedding	laughter
+wedding	music
+wedding	ringing
+wedding	rushing water
+weddings	bagpipes
+weddings	drums
+wedding	shutters banging
+wedding	silence
+wedding	solo flute
+weddings	summer
+weddings	violins leading
+wedding	water fountains
+wedding	waves
+wedding	wedding bells
