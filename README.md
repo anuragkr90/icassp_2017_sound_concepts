@@ -1,7 +1,7 @@
 # Discovering Sound Concepts and Acoustic Relations In Text
 ## ICASSP 2017
 ### How do you discover sound concepts and relations in text ?? 
-### ICASSP Paper for details. 
+### [ICASSP Paper for details](https://ieeexplore.ieee.org/abstract/document/7952232)
 
 ## Sound Concepts, Relations and Ontology
 
